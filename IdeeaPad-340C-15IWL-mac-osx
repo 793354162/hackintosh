@@ -12,15 +12,15 @@ IdeeaPad-340C-15IWL-mac-osx
 
 硬盘 M.2 SN520(256.06 GB) + HS-SSD-C260 512G    
 
-网卡 DW1802A
+网卡 DW1820A
 
 MAC clover引导 10.15.7
 
 cpu ntel(R) Core(TM) i3-8145U CPU @ 2.10GHz Coffee Lake 
 
-显卡仿冒 Iris Plus Graphics 655
+显卡仿冒 Iris Plus Graphics 655 快捷键调节亮度
 
-声卡 注入id 13    可调节正常
+声卡 注入id 13    可快捷键调节正常
 
 网卡 已换DW1802A  正常
 
@@ -28,6 +28,6 @@ cpu ntel(R) Core(TM) i3-8145U CPU @ 2.10GHz Coffee Lake
 
 电池显示正常
 
-触摸板 采用轮训 正常
+触摸板 采用轮询 正常
 
 可睡眠唤醒
