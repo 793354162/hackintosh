@@ -1,5 +1,7 @@
 # hackintosh
 
+引导方式：clover
+macOS：10.5.7
 
 
 配置 联想340c
